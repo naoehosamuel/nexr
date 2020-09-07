@@ -684,7 +684,7 @@ to{
         z-index: 999999999999999;
     }
     #particles-js3 {
-        height: 70%;
+        height: 70vh;
     }
     .fabs {
         right: 16px;
