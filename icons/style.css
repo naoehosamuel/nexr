@@ -1,0 +1,165 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?w4cyjj');
+  src:  url('fonts/icomoon.eot?w4cyjj#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?w4cyjj') format('truetype'),
+    url('fonts/icomoon.woff?w4cyjj') format('woff'),
+    url('fonts/icomoon.svg?w4cyjj#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow-down:before {
+  content: "\e900";
+}
+.icon-arrow-left:before {
+  content: "\e901";
+}
+.icon-arrow-right:before {
+  content: "\e902";
+}
+.icon-bag:before {
+  content: "\e903";
+}
+.icon-body:before {
+  content: "\e904";
+}
+.icon-cart:before {
+  content: "\e905";
+}
+.icon-check:before {
+  content: "\e906";
+}
+.icon-close:before {
+  content: "\e907";
+}
+.icon-cruelty-free:before {
+  content: "\e908";
+}
+.icon-grade:before {
+  content: "\e909";
+}
+.icon-hair:before {
+  content: "\e90a";
+}
+.icon-heart:before {
+  content: "\e90b";
+}
+.icon-list:before {
+  content: "\e90c";
+}
+.icon-mail:before {
+  content: "\e90d";
+}
+.icon-makeup:before {
+  content: "\e90e";
+}
+.icon-men:before {
+  content: "\e90f";
+}
+.icon-menu:before {
+  content: "\e910";
+}
+.icon-minus:before {
+  content: "\e911";
+}
+.icon-mouth-hygiene:before {
+  content: "\e912";
+}
+.icon-natural:before {
+  content: "\e913";
+}
+.icon-no-dye:before {
+  content: "\e914";
+}
+.icon-no-fragrance:before {
+  content: "\e915";
+}
+.icon-no-gluten:before {
+  content: "\e916";
+}
+.icon-no-lactose:before {
+  content: "\e917";
+}
+.icon-no-paraben:before {
+  content: "\e918";
+}
+.icon-no-sulfate:before {
+  content: "\e919";
+}
+.icon-organic:before {
+  content: "\e91a";
+}
+.icon-payment:before {
+  content: "\e91b";
+}
+.icon-pen:before {
+  content: "\e91c";
+}
+.icon-phone:before {
+  content: "\e91d";
+}
+.icon-plus:before {
+  content: "\e91e";
+}
+.icon-search:before {
+  content: "\e91f";
+}
+.icon-star-outline:before {
+  content: "\e920";
+}
+.icon-star-solid:before {
+  content: "\e921";
+}
+.icon-sustainability:before {
+  content: "\e922";
+}
+.icon-trash:before {
+  content: "\e923";
+}
+.icon-truck:before {
+  content: "\e924";
+}
+.icon-user:before {
+  content: "\e925";
+}
+.icon-vegan:before {
+  content: "\e926";
+}
+.icon-well-being:before {
+  content: "\e927";
+}
+.icon-facebook:before {
+  content: "\ea90";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
+.icon-whatsapp:before {
+  content: "\ea93";
+}
+.icon-twitter:before {
+  content: "\ea96";
+}
+.icon-youtube:before {
+  content: "\ea9d";
+}
+.icon-linkedin2:before {
+  content: "\eaca";
+}
