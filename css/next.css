@@ -546,6 +546,9 @@ to{
 .terceira-secao button:focus {
     outline: 0 !important;
 }
+.hihi {
+    width: 60%;
+}
 @media screen and (max-width: 1366px) {
     .container {
         max-width: 1145px;
@@ -597,6 +600,9 @@ to{
         width: 60%;
         margin-top: 20px;
     }
+    .hihi {
+        width: 100%;
+    } 
     .footer-menu {
         margin-bottom: 0px;
     }
