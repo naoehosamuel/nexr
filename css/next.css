@@ -710,4 +710,7 @@ to{
         position: relative;
         opacity: 0.8;
     }
+    .header_menu_titulo {
+        margin-top: 20px;
+    }
 }
